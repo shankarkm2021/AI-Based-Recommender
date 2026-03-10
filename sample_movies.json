@@ -1,0 +1,24 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Joyful Journey",
+      "genre": "Comedy/Adventure",
+      "description": "A heartwarming tale of friends discovering happiness on a road trip",
+      "year": 2023,
+      "rating": 4.5,
+      "poster": "🎭",
+      "keywords": "funny happy adventure friends travel"
+    },
+    {
+      "id": 2,
+      "title": "Midnight Whispers",
+      "genre": "Drama/Romance",
+      "description": "A touching story about love found in unexpected places",
+      "year": 2022,
+      "rating": 4.2,
+      "poster": "💕",
+      "keywords": "romantic emotional love relationship"
+    }
+  ]
+}

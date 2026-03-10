@@ -1,0 +1,8 @@
+Acknowledgments
+Inspired by the need for emotion-based content discovery
+
+Built with love for movie enthusiasts everywhere
+
+### **12. LICENSE** (MIT License)
+```txt
+MIT

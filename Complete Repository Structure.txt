@@ -1,0 +1,17 @@
+moodsense-recommender/
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── mood_engine.py
+│   ├── data_loader.py
+│   └── config.py
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── assets/
+├── data/
+│   └── sample_movies.json
+├── .gitignore
+├── README.md
+└── LICENSE

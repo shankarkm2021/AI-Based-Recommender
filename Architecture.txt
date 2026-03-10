@@ -1,0 +1,3 @@
+Frontend (HTML/CSS/JS) → Backend (Flask) → Mood Engine → Movie Database
+         ↑                    ↑                 ↑
+    User Interface       REST API         ML Processing

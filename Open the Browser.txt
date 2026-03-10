@@ -1,0 +1,13 @@
+Open your browser
+Navigate to http://localhost:5000
+
+🎯 How It Works
+User Input: Enter how you're feeling (e.g., "I feel adventurous and want something exciting")
+
+Text Processing: Our engine cleans and analyzes your text
+
+Mood Mapping: Keywords are extracted and mapped to mood categories
+
+Similarity Search: TF-IDF vectorization finds movies with matching descriptions
+
+Results: Top matches are returned with similarity scores

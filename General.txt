@@ -1,0 +1,20 @@
+Sample Moods
+Mood	Keywords	Example Movies
+😊 Happy	joy, fun, comedy	Comedies, Feel-good films
+😢 Sad	emotional, touching	Dramas, Heartfelt stories
+🗺️ Adventurous	action, journey	Adventure, Action films
+💕 Romantic	love, romance	Romantic comedies, Love stories
+🛠️ Technologies Used
+Backend: Python, Flask, scikit-learn, NLTK
+
+Frontend: HTML5, CSS3, JavaScript
+
+ML: TF-IDF Vectorization, Cosine Similarity
+
+Deployment: Gunicorn (production ready)
+
+🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
